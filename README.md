@@ -3,6 +3,7 @@
 ###
 
 - 🔭 I’m currently working on [SpartanYap](https://github.com/shallowsmith/SpartanYap)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
 
 ###
 
@@ -36,12 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<div align="left">
-   https://www.linkedin.com/in/james---kim/
 </div>
 
 ###
