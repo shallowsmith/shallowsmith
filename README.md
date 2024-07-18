@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">Software Engineering @ SJSU | 2025</p>
 
 ###
 
