@@ -9,8 +9,8 @@
 <h2 align="left">About me</h2>
 
 ###
-
-<p align="left">- 🔭 I’m currently working on my [Portfolio](https://github.com/shallowsmith/SpartanYap)<br>- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)<br>- 🎯 Goals: Pursue MSCS</p>
+- 🔭 I’m currently working on my [Portfolio](https://github.com/shallowsmith/SpartanYap) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)<br>- 🎯 Goals: Pursue MSCS</p>
 
 ###
 
