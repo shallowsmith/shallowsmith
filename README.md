@@ -10,7 +10,8 @@
 
 ###
 - 🔭 I’m currently working on my [Portfolio](https://github.com/shallowsmith/SpartanYap) 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)<br>- 🎯 Goals: Pursue MSCS</p>
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
+- 🎯 Goals: Pursue MSCS
 
 ###
 
