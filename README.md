@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-- 🔭 I’m currently working on my [Portfolio](https://github.com/shallowsmith/SpartanYap) 
+- 🔭 I’m currently working on my [Portfolio](https://shallowsmith.github.io/) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
 - 🎯 Goals: Pursue MSCS
 
