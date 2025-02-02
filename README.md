@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
-- 🔭 I’m currently working on [learninglab](https://github.com/shallowsmith/learninglab) 
+- 🔭 I’m currently working on [learninglab](https://github.com/shallowsmith/learnlab) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
 - 🎯 Goals: Get H1B LOL
 
