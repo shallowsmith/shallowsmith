@@ -9,9 +9,9 @@
 <h2 align="left">About me</h2>
 
 ###
-- 🔭 I’m currently working on [StudySync](https://github.com/venajeremy/StudySync) 
+- 🔭 I’m currently working on [learninglab](https://github.com/shallowsmith/learninglab) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
-- 🎯 Goals: Looking for a SWE internship. Pursue MSCS.
+- 🎯 Goals: Get H1B LOL
 
 ###
 
