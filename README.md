@@ -11,7 +11,7 @@
 ###
 - 🔭 I’m currently working on [learnlab](https://github.com/shallowsmith/learnlab) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
-- 🎯 Goals: Get H1B LOL
+- 🎯 Goals: Daily commit challenge!
 
 ###
 
