@@ -11,8 +11,8 @@
 ###
 - 🔭 I’m currently working on [learnlab](https://github.com/shallowsmith/learnlab) 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/james---kim/)
-- 🎯 Goals: Daily commit challenge!!
-
+- 🎯 Goals: Be good
+  
 ###
 
 <h2 align="left">Tech Stack</h2>
